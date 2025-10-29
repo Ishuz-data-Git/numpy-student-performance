@@ -1,4 +1,4 @@
-# numpy-student-performance# 🧮 NumPy Student Performance Analysis
+# 🧮 NumPy Student Performance Analysis
 
 This project analyzes **student exam performance data** using **NumPy**.  
 It demonstrates how numerical computations can be done efficiently without Pandas.
